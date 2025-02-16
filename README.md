@@ -33,12 +33,3 @@ Print & apply the custom labels for maximum post-apocalyptic realism.
 
 ![image](https://github.com/user-attachments/assets/54db7cd7-e868-43fd-b66f-779535477c4d)
 
-
-
-⚙️ Compatibility
-
-✔️ Designed to work with Micro Machines Travel City playsets
-
-✔️ Modular & expandable—combine with other Desolation Drive sets
-
-
